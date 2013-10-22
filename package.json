@@ -1,0 +1,10 @@
+{
+    "name": "mhealth-api",
+    "version": "0.1.0",
+    "author": "Beyond <george@bynd.com>",
+    "description": "A Sample API for Novartis Mobile Heath Challenge Hackathon",
+    "dependencies" : {
+        "csv"       : "0.3.6",
+        "restify"   : "2.6.0" 
+    }
+}

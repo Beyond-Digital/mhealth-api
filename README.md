@@ -7,7 +7,7 @@ Usage
 ===========
 
 * Install pre-requisites
-    npm install
+        npm install
 
 * Run server!
-    node api.js
+        node api.js
