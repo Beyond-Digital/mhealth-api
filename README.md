@@ -17,3 +17,8 @@ Usage
 * Browse API
 
     <http://localhost:8080/patients>
+
+Documentation
+===========
+
+http://docs.mhealthapi.apiary.io/
