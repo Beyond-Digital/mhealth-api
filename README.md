@@ -10,6 +10,10 @@ Usage
         
         npm install
 
-* Run server!
+* Run server
 
         node api.js
+
+* Browse API
+
+    <http://localhost:8080/patients>
